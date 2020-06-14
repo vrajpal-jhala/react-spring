@@ -1,2 +1,2 @@
 # react-spring
-A practice project for react spring boot application with mongo db
+A practice project in react + spring boot with jwt and mysql
